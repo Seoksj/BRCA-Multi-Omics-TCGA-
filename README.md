@@ -10,4 +10,4 @@ pp: protein levels (n=223)
 
 ![image](https://github.com/user-attachments/assets/a43d798a-1391-4bfb-b077-b863741bf480)
 
-![image](https://github.com/user-attachments/assets/aa654c6f-bd9a-426d-93f2-e9dd59aff607)
+![image](https://github.com/user-attachments/assets/b6a0e3c1-e24a-42ee-990f-9abdec3c74a8)
